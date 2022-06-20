@@ -1,0 +1,2 @@
+Si hay algún problema al exportar las imágenes se ha de descomprimir el fichero sprites.rar y sustituir los anteriores archivos corruptos por los que están dentro del rar
+
